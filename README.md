@@ -1,11 +1,21 @@
 # TOP-SEO-CHECKLIST
 
+# Specific code for SEO in  Header :
+
+          <meta charset="utf-8">
+          <meta http-equiv="X-UA-Compatible" content="IE=edge">
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+          <meta name="description" content="Starwalt Vellore free website">
+          <meta name="generator" content="http://starwalt.in/">
+          <meta name="keyword" content="Starwalt is an Internet Company, We help you to develop your business in Online, Websites,Digital      Marketing Services.">
+          <meta name="author" content="Santhosh">
+
 
 14 Best Free SEO Tools
 
 Below is a list of the 14 Best FREE Tools you will learn how to use in my course "SEO Roadmap: SEO to Rank #1 & Skyrocket Sales". Bookmark this page to access it easily in future : )
 
-#Keyword Research Tools
+# Keyword Research Tools
 
 # Wikipedia
 
