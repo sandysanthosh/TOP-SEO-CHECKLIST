@@ -188,7 +188,9 @@ www.marketingpilgrin.com/
 
 creat a account in google + and post a product  - top google search tool
 
+Top 50 link 
 
 
 
+https://www.searchenginejournal.com/link-building-for-beginners/types-of-links-how-to-build-them/?utm_source=facebook.com&utm_medium=social&utm_campaign=facebook-auto-publish
 <a href="http://starwalt.in/Blogs/index.html">Follow us on Blog</a>
